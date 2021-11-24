@@ -36,3 +36,22 @@ git log
 | Alejandro Ceballos | https://github.com/daw203/Alejandro_Markdown                    | 
 | Javier Sosa        | https://github.com/JavierSosa1/Javier_markdown                  | 
 | Antonio Lopez      | https://gitlab.com/antonioalopezfernandez/ANTONIOLOPEZ_Markdown | 
+
+**Crear una rama**  
+git checkout -b rama-Raul
+
+**Subir cambios al repositorio remoto de una rama**  
+git push origin rama-Raul
+
+**Hacer un merge**  
+git merge rama-Raul
+
+**Cambiar entre las ramas**  
+git checkout rama-Raul
+git checkout main
+
+**Borrar una rama**  
+git branch -d rama-Raul
+
+**Ver todo lo que has realizado**  
+git log --graph
