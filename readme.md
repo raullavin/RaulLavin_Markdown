@@ -29,3 +29,10 @@ git config --global core.excludesFile .gitignore
 **Crear un tag y visualizar**
 git tag v0.1
 git log
+
+**Tabla con enlaces a los github de los compañeros**
+| Nombre             | Enlace a GitHub                                                 |
+| :----------------- | --------------------------------------------------------------: | 
+| Alejandro Ceballos | https://github.com/daw203/Alejandro_Markdown                    | 
+| Javier Sosa        | https://github.com/JavierSosa1/Javier_markdown                  | 
+| Antonio Lopez      | https://gitlab.com/antonioalopezfernandez/ANTONIOLOPEZ_Markdown | 
